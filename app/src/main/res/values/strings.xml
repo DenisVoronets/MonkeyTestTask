@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">MonkeyTreasure and WebView</string>
+    <string name="game_name">Game Monkey Treasure</string>
+    <string name="web_veiw">Web View</string>
+    <string name="title_activity_web_view">Comparison</string>
+    <string name="comparison_button">Сравнить</string>
+    <string name="text_dollar">Текущие занчение доллара США:</string>
+    <string name="monkey_treasure">Monkey Treasure</string>
+    <string name="web_view">Web View</string>
+    <string name="main_menu">Главное меню</string>
+</resources>
